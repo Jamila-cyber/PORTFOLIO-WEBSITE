@@ -1,0 +1,182 @@
+header {
+      background-image: url(images/muslim.jpg);
+      background-size: 100% 200%;
+      background-repeat: no-repeat;
+      padding-top:20px;
+      }
+
+.intro {
+      padding-top: 20%;
+      padding-left: 5%;
+      color:rgb(253, 140, 87);; 
+      }
+
+ .icon {
+      padding-bottom: 5%;
+      padding-left: 5%;
+ } 
+ 
+ .navlist {
+      display: flex;
+      padding-right: 30px;
+      gap: 30px;
+      color: rgb(253, 140, 87);
+      list-style-type: none;
+      justify-content: space-between;
+      font-size: 1.5rem;
+ }
+
+ .logolist{
+      display: flex;
+      justify-content: space-between;
+ }
+
+ .list .intro{
+      position: relative;
+      z-index: 10;
+ }
+
+ h1{
+      color: rgb(253, 140, 87);
+      font-size: 2.5rem;
+ }
+
+ .AboutMe {
+       display: flex;
+       padding-top: 5px;
+       margin: 30px;
+       gap: 200px;
+       justify-content: space-between;
+ }
+
+ #file {
+      width: 400px;
+ }
+
+ .Expertise {
+      display: flex;
+      justify-content: space-between;
+      margin: 30px;
+      margin-bottom: 10%;
+      gap: 70px;
+}
+
+.bsansh {
+      margin: 10%;
+}
+
+#expert{
+      margin: 30px;
+}
+
+img{
+      padding-bottom: 50px;
+}
+
+.hireme{
+      border-style: hidden;
+      background-color: rgb(156, 88, 128);
+      margin: 20px;
+      padding-left:50px;
+      padding: 20px;
+}
+
+button {
+      color: white;
+      background-color: indigo;
+      margin-left: 80%;
+}
+
+.posts {
+      display: flex;
+      justify-content: space-between;
+      margin: 40;
+      padding: 20px;
+      gap: 60px;
+}
+
+.posts1 {
+      border: 1pt;
+      border-color: indigo;
+      border-style: groove;
+      text-align: center;
+      padding-top: 30px;
+}
+
+#rbutton {
+      color: rgb(253, 247, 253);
+      background-color: indigo;
+      margin-inline-start: -70%;
+      border: none;
+}
+
+#quote {
+      text-align: center;
+      font-size: 180%;
+      padding: 5%;
+
+}
+
+.buttom {
+      display: flex;
+      justify-content: space-between;
+      gap: 30px;
+}
+
+input {
+      margin: 5%;
+      padding: 5%;
+}
+
+textarea {
+      margin-top: 20px;
+      padding-top: 20px;
+      padding-bottom: 50px;
+      margin-bottom: 30px;
+}
+
+#sbutton {
+      width: 75%;
+      height: 30px;
+      margin-left: 50px;
+}
+
+#text {
+      margin-left: 50px;
+}
+
+.form {
+      margin-left: 50px;
+      
+}
+
+.myself {
+   margin-right: 0px;
+   justify-content: right;
+    
+}
+
+textarea, input {
+      background-color: rgb(188, 148, 226);
+      border-style:none;
+}
+
+.footer {
+      display: flex;
+      justify-content: space-between;
+      gap: 40%;
+      background-color: rgb(176, 111, 236);
+}
+
+.socialmedia {
+      display: flex;
+      justify-content: space-between;
+      list-style-type: none;
+      padding-right: 120px;
+      gap: 20px;
+      z-index: 10;
+}
+
+.pfooter {
+      padding-left: 50px;
+}

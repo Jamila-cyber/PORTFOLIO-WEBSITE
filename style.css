@@ -180,3 +180,9 @@ textarea, input {
 .pfooter {
       padding-left: 50px;
 }
+
+
+body {
+      background-color: pink;
+      font-size: larger;
+}
